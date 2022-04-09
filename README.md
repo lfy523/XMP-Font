@@ -1,2 +1,2 @@
-# XMP-Font
-The official implementation of XMP-Font
+# XMP-Font: Official PyTorch Implementation
+
